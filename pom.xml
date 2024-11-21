@@ -26,7 +26,7 @@
     </modules>
 
     <properties>
-        <aem.host>13.233.214.113</aem.host>
+        <aem.host>13.233.195.230</aem.host>
         <aem.port>4502</aem.port>
         <aem.publish.host>localhost</aem.publish.host>
         <aem.publish.port>4503</aem.publish.port>
